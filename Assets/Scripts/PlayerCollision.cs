@@ -11,6 +11,7 @@ public class PlayerCollision : MonoBehaviour
         {
             rb.constraints = RigidbodyConstraints.None;
             movement.enabled = false;
+            FindObjectOfType<GameManager>().EndGame();
         }
     }
 }
