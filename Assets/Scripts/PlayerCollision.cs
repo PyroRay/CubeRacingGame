@@ -13,6 +13,7 @@ public class PlayerCollision : MonoBehaviour
         {
             playerHealth -= 1;
             healthText.text = playerHealth.ToString("0");
+            collision.collider.GetComponent<MineExplosion>().Explode();
         }
 
         if (playerHealth == 0)

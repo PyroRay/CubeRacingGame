@@ -649,7 +649,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movement: {fileID: 2384561949951662495}
-  rb: {fileID: 2384561949951662494}
+  playerHealth: 3
+  healthText: {fileID: 0}
 --- !u!114 &2384561949951662495
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -666,6 +667,8 @@ MonoBehaviour:
   fwdForce: 1000
   sideForce: 30
   updownForce: 20
+  playerAngles: {x: 0, y: 0, z: 0}
+  player: {fileID: 0}
 --- !u!1 &3600122903374426412
 GameObject:
   m_ObjectHideFlags: 0
