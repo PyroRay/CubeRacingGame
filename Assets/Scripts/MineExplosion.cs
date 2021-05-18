@@ -1,5 +1,5 @@
 using UnityEngine;
-
+using UnityEngine.Audio;
 public class MineExplosion : MonoBehaviour
 {
     public GameObject explosionEffect;
