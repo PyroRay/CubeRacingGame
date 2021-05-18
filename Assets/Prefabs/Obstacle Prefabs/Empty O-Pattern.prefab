@@ -1,0 +1,3513 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6726032464987647500
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6726032464987647501}
+  m_Layer: 0
+  m_Name: Empty O-Pattern
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6726032464987647501
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6726032464987647500}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 28}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4149045799066407351}
+  - {fileID: 4149045798420500532}
+  - {fileID: 4149045797858618647}
+  - {fileID: 4149045798355962711}
+  - {fileID: 4149045798576620863}
+  - {fileID: 4149045799040302968}
+  - {fileID: 4149045797383010769}
+  - {fileID: 4149045799219783228}
+  - {fileID: 4149045797517999057}
+  - {fileID: 4149045798121704886}
+  - {fileID: 4149045799007275757}
+  - {fileID: 4149045798632996350}
+  - {fileID: 4149045799040887133}
+  - {fileID: 4149045797469915755}
+  - {fileID: 4149045799128294721}
+  - {fileID: 4149045797647252111}
+  - {fileID: 4149045798822015507}
+  - {fileID: 4149045798038788764}
+  - {fileID: 4149045798845734107}
+  - {fileID: 4149045798175973661}
+  - {fileID: 4149045798290432798}
+  - {fileID: 4149045798195745332}
+  - {fileID: 4149045798317764837}
+  - {fileID: 4149045798365113961}
+  - {fileID: 4149045799035419542}
+  - {fileID: 4149045799135174449}
+  - {fileID: 4149045798782761713}
+  - {fileID: 4149045798766733456}
+  - {fileID: 4149045797183767537}
+  - {fileID: 4149045798067500340}
+  - {fileID: 4149045798203185634}
+  - {fileID: 4149045798384152237}
+  - {fileID: 4149045798719516793}
+  - {fileID: 4149045798012486801}
+  - {fileID: 4149045798181074658}
+  - {fileID: 4149045797690256875}
+  - {fileID: 4149045797796914246}
+  - {fileID: 4149045797931257038}
+  - {fileID: 4149045797755960013}
+  - {fileID: 4149045798518997183}
+  - {fileID: 4149045797352893161}
+  - {fileID: 4149045797989609778}
+  - {fileID: 4149045797430394223}
+  - {fileID: 4149045797857982205}
+  - {fileID: 4149045797635115972}
+  - {fileID: 4149045797400721482}
+  - {fileID: 4149045799066243173}
+  - {fileID: 4149045797628505305}
+  - {fileID: 4149045797710226961}
+  - {fileID: 4149045797366489513}
+  - {fileID: 4149045798840819698}
+  - {fileID: 4149045798436860721}
+  - {fileID: 4149045797392499600}
+  - {fileID: 4149045798925843601}
+  - {fileID: 4149045797727119060}
+  - {fileID: 4149045797184772936}
+  - {fileID: 6340190241959095487}
+  - {fileID: 6533154272531428105}
+  - {fileID: 4861136349862941566}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2861417502934610868
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (83)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4861136349862941566 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 2861417502934610868}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3692692901970562165
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (44)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &6340190241959095487 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 3692692901970562165}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4497293917982479299
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 57
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -12
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (82)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &6533154272531428105 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 4497293917982479299}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032464751150036
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -44
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (46)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798290432798 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032464751150036}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032464814599069
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -44
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -12
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (25)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798355962711 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032464814599069}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032464854110255
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -54
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (48)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798317764837 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032464854110255}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032464889721086
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (23)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798420500532 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032464889721086}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032464909717155
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (49)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798365113961 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032464909717155}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032464920366695
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -12
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (57)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798384152237 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032464920366695}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032464973042683
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 51
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -48
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (77)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798436860721 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032464973042683}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465055195253
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (65)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798518997183 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465055195253}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465102497269
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -44
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (26)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798576620863 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465102497269}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465175633204
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -46
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (36)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798632996350 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465175633204}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465255829683
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (58)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798719516793 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465255829683}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465289122521
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -48
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (41)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798822015507 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465289122521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465309206618
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (53)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798766733456 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465309206618}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465327331899
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (52)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798782761713 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465327331899}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465374920504
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -44
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (76)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798840819698 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465374920504}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465398840337
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -52
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (43)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798845734107 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465398840337}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465453669467
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 53
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -52
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (79)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798925843601 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465453669467}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465476364839
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (35)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045799007275757 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465476364839}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465552142511
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (72)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045799066243173 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465552142511}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465552437629
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -12
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (22)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045799066407351 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465552437629}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465574420402
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -44
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (27)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045799040302968 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465574420402}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465577232791
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -44
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (37)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045799040887133 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465577232791}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465577925468
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -12
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (50)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045799035419542 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465577925468}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465612652539
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (51)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045799135174449 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465612652539}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465654121867
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (39)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045799128294721 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465654121867}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465695278838
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -16
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (31)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045799219783228 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465695278838}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465818286978
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (81)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797184772936 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465818286978}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032465856963387
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -16
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (54)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797183767537 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032465856963387}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466008922240
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (71)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797400721482 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466008922240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466017592154
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 52
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (78)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797392499600 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466017592154}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466039669091
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 49
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -46
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (75)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797366489513 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466039669091}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466053335587
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -52
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (66)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797352893161 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466053335587}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466056190235
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (29)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797383010769 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466056190235}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466103298721
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -48
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (38)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797469915755 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466103298721}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466114190757
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -44
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (68)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797430394223 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466114190757}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466193308443
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -44
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -16
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (33)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797517999057 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466193308443}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466308442894
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (70)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797635115972 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466308442894}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466318461971
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -54
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (73)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797628505305 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466318461971}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466328820293
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -52
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (40)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797647252111 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466328820293}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466350130718
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 54
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (80)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797727119060 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466350130718}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466390732065
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (61)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797690256875 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466390732065}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466400315099
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (74)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797710226961 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466400315099}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466413503628
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (62)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797796914246 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466413503628}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466454469127
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -48
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (64)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797755960013 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466454469127}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466490019293
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (24)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797858618647 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466490019293}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466491446839
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -54
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (69)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797857982205 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466491446839}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466547862532
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (63)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797931257038 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466547862532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466635514971
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (59)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798012486801 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466635514971}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466662789624
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -46
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (67)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045797989609778 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466662789624}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466684057086
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (55)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798067500340 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466684057086}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466714081878
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (42)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798038788764 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466714081878}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466794933628
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -54
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (34)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798121704886 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466794933628}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466817792296
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -58
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (56)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798203185634 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466817792296}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466820838142
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -44
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (47)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798195745332 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466820838142}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466873259560
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -16
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (60)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798181074658 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466873259560}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6726032466874352087
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6726032464987647501}
+    m_Modifications:
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.049999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -46
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8036714643657407088, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+      propertyPath: m_Name
+      value: NavalMine (45)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+--- !u!4 &4149045798175973661 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7260917296926908618, guid: 6b1ebefa6299bad49b072aeab295357f, type: 3}
+  m_PrefabInstance: {fileID: 6726032466874352087}
+  m_PrefabAsset: {fileID: 0}

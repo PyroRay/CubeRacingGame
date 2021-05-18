@@ -12,7 +12,12 @@ public class PlayerCollision : MonoBehaviour
         if (collision.collider.tag == "Obstacle")
         {
             playerHealth -= 1;
+
+            if(playerHealth >= 0)
+            {
             healthText.text = playerHealth.ToString("0");
+            }
+
             collision.collider.GetComponent<MineExplosion>().Explode();
         }
 
