@@ -24,6 +24,7 @@ public class PlayerMovement : MonoBehaviour
         if(Input.GetKey("d"))
         {
             rb.AddForce(sideForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
+            player.Rotate(0, 2, 0);
         }
         else if (!(Input.GetKeyDown("d")))
         {
@@ -36,6 +37,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKey("a"))
         {
             rb.AddForce(-sideForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
+            player.Rotate(0, -2, 0);
         }
         else if (!(Input.GetKeyDown("a")))
         {
@@ -48,6 +50,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKey("w"))
         {
             rb.AddForce(0, updownForce * Time.deltaTime, 0, ForceMode.VelocityChange);
+            player.Rotate(-2, 0, 0);
         }
         else if (!(Input.GetKeyDown("w")))
         {
@@ -60,6 +63,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKey("s"))
         {
             rb.AddForce(0, -updownForce * Time.deltaTime, 0, ForceMode.VelocityChange);
+            player.Rotate(2, 0, 0);
         }
         else if (!(Input.GetKeyDown("s")))
         {
